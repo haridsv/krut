@@ -32,7 +32,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>krut.Run_KRUT</mainClass>
+							<mainClass>net.sourceforge.krut.Krut</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
@@ -51,7 +51,7 @@
 					</execution>
 				</executions>
 				<configuration>
-					<mainClass>krut.Run_KRUT</mainClass>
+					<mainClass>net.sourceforge.krut.Krut</mainClass>
 				</configuration>
 			</plugin>
 

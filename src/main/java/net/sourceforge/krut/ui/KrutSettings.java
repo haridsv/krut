@@ -760,7 +760,7 @@ public class KrutSettings extends javax.swing.JFrame {
         gridBagConstraints.anchor = java.awt.GridBagConstraints.SOUTH;
         logoPanel.add(jFormattedTextField3, gridBagConstraints);
 
-        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("../logo.PNG")));
+        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/net/sourceforge/krut/logo.PNG")));
         jButton2.setBorder(null);
         jButton2.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
